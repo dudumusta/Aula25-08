@@ -2,5 +2,5 @@
 
 Jogo da adivinhação.
   
-  Tente adivinhar qual o número foi escolhido pela máquina. 
+  Desenvolva um algoritmo que leia um número de 1 a 10 e compare para saber se o número digitado está correto.  
 
