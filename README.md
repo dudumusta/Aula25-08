@@ -2,8 +2,8 @@
 
 Alunos: 
 
-Carlos Eduardo de Melo 
-Guilherme Cabral 
+Carlos Eduardo de Melo/ 
+Guilherme Cabral/
 Leonardo Gonçalves 
 
 Jogo da adivinhação.
